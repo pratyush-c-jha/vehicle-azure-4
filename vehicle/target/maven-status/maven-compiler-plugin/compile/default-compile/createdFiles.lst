@@ -1,0 +1,15 @@
+com\vcorp\vehicle\entity\VehicleDetailsEntity.class
+com\vcorp\vehicle\aspect\LoggingAspect.class
+com\vcorp\vehicle\request\dto\VehicleRequestDTO.class
+com\vcorp\vehicle\repository\VehicleDetailsRepository.class
+com\vcorp\config\actuator\VcorpEndPoint.class
+com\vcorp\vehicle\VehicleApplication.class
+com\vcorp\vehicle\service\VehicleDetailsService.class
+com\vcorp\vehicle\exception\VehicleException.class
+com\vcorp\vehicle\entity\VdnDetailsEntity.class
+com\vcorp\config\SecurityConfiguration.class
+com\vcorp\vehicle\request\dto\ErrorDTO.class
+com\vcorp\vehicle\controller\VehicleDetailsController.class
+com\vcorp\vehicle\exception\VehicleMainException.class
+com\vcorp\vehicle\response\dto\VehicleResponseDTO.class
+com\vcorp\vehicle\repository\VdnDetailsRepository.class
